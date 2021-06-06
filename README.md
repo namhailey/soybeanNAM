@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### STACK 
 
-<href="https://www.python.org/community/logos/" target="_blank"><img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Vimeo&logoColor=white"/>
+https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom
 
 
 I'm recently looking for a job as data analyst/data engineer/digital PM.
