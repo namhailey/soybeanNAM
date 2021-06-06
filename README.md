@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff6781&height=300&section=header&text=im soybean%20render&fontSize=90)
+
+
 ### Hi there 👋
 
 <!--
@@ -15,11 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 ### STACK 
 
 <href="https://www.python.org/community/logos/" target="_blank"><img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Vimeo&logoColor=white"/>
 
 
-I'm recently looking for a job as data analyst/data engineer/digital PM. \n
-Always open following & conversations and so on...
+I'm recently looking for a job as data analyst/data engineer/digital PM.
 
