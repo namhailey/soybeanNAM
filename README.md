@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### STACK 
 
-<a href="https://www.python.org/community/logos/" target="_blank"><img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<a href="https://www.python.org/community/logos/" target="_blank"><img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 
-I'm recently looking for a job as data analyst/data engineer/digital PM.
+I'm recently looking for a job as data analyst/data engineer/digital PM. /n
 Always open following & conversations and so on...
 
