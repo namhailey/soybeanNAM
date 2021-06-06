@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20im_soybean%20&height=300&fontSize=100&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20im_soybean%20&height=300&fontSize=60)
 
 
 
