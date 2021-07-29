@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20im_soybean!%20&height=300&fontSize=60&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20im_hailey!%20&height=300&fontSize=60&fontAlign=70)
 
 
 
 ### Hi there 👋
 
 <!--
-**soybeanNAM/soybeanNAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
